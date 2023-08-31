@@ -1,6 +1,6 @@
 # Amusement-Park
 
-### By **DWilken02
+### By **DWilken02**
 
 ## Technologies used
 
